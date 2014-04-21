@@ -25,7 +25,7 @@ use:
 
 ## license
 
-[MIT](LICENSE.txt)
+[MIT](LICENSE)
 
 Note: [json11](https://github.com/dropbox/json11) license
  is [hare](https://github.com/dropbox/json11/blob/master/LICENSE.txt).

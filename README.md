@@ -16,7 +16,14 @@ use:
 
 ```C++
 #include <json11.hxx> // <-- note: it's not .hpp.
+
+// and your code with json11.
+
 ```
+
+more info,
+ to see the [json11 README](https://github.com/dropbox/json11#json11)
+ if you need.
 
 ## how to generate myself
 
